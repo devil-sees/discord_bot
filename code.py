@@ -3,8 +3,8 @@ import random
 import asyncio
 from discord.ext import commands
 
-bot_token = 'Nzk1OTk0MTM4NzA0MzQ3MTY2.X_RdTw.xiy2dcfdbJZQ7531_8Ab9TxCL_U'
-dlt_cnl_id = 803213061640814612
+bot_token = 'bot_token'
+dlt_cnl_id = int('client_id')
 Client = commands.Bot(command_prefix='+')
 
 # -----------------------------------------------------
